@@ -1,8 +1,7 @@
-deepface
-fastapi
-uvicorn
-python-multipart
-numpy
-tf-keras
-scipy
-opencv-python-headless
+deepface==0.0.100
+opencv-python==5.0.0.93
+tensorflow==2.21.0
+tf-keras==2.21.0
+mtcnn==1.0.0
+numpy==2.5.2
+pandas==3.0.5
